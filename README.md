@@ -1,6 +1,9 @@
 # Sales Data Analysis
 
 This project focuses on analyzing sales data using Microsoft Excel. The analysis includes data cleaning, generating key metrics, creating pivot tables, and building interactive dashboards.
+Preview :
+<img width="1618" height="663" alt="image" src="https://github.com/user-attachments/assets/5e17c84c-73f8-4537-8786-0427455b83a2" />
+
 
 ## 📊 Features
 
